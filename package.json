@@ -5,6 +5,12 @@
 		"email": "dannycallaghan@gmail.com",
 		"name": "Danny Callaghan"
 	},
-	"version": "0.1.1",
+	"version": "1.0.0",
 	"main": "index.js"
+	"license": "MIT",
+  	"repository": {
+    		"type": "git",
+    		"url": "git+https://github.com/dannycallaghan/npm-dannycallaghan.git"
+  	},
+	"homepage": "https://github.com/dannycallaghan/npm-dannycallaghan#readme",
 }
