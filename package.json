@@ -1,0 +1,10 @@
+{
+	"name": "dannycallaghan",
+	"description": "my package",
+	"author": {
+		"email": "dannycallaghan@gmail.com",
+		"name": "Danny Callaghan"
+	},
+	"version": "0.1.0",
+	"main": "index.js"
+}
